@@ -52,7 +52,7 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2007100589</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A scandal that threatens the future of an exclusive boys’ school poses a moral dilemma for its headmaster.</dc:abstract>
+		<meta property="schema:abstract">A scandal that threatens the future of an exclusive boys’ school poses a moral dilemma for its headmaster.</meta>
 		<dc:description>
 			&lt;p&gt;Dr. Wortle, village rector and headmaster, needs a respectable married couple to serve as assistant master and matron of the school he runs. Mr. and Mrs. Peacocke seem to be the perfect candidates, and soon settle into life in the quiet town of Bowick. But in a society where reputation is everything, rumors about their past cause a scandal that threatens to upend the Doctor’s quiet life.&lt;/p&gt;
 			&lt;p&gt;In this 1879 novel, written just three years before &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Trollope’s&lt;/a&gt; death, Trollope uses the Doctor’s predicament to explore the difficult choices that must be made when rigid social and moral codes stand in conflict with personal integrity and simple human compassion.&lt;/p&gt;
